@@ -1,0 +1,9 @@
+D:\dev\dotNet\Ugc\ClassLibrary1\bin\Debug\netstandard2.0\UgcClassLibrary.deps.json
+D:\dev\dotNet\Ugc\ClassLibrary1\bin\Debug\netstandard2.0\UgcClassLibrary.dll
+D:\dev\dotNet\Ugc\ClassLibrary1\obj\Debug\netstandard2.0\UgcClassLibrary.csprojResolveAssemblyReference.cache
+D:\dev\dotNet\Ugc\ClassLibrary1\obj\Debug\netstandard2.0\UgcClassLibrary.csproj.CoreCompileInputs.cache
+D:\dev\dotNet\Ugc\ClassLibrary1\obj\Debug\netstandard2.0\UgcClassLibrary.AssemblyInfoInputs.cache
+D:\dev\dotNet\Ugc\ClassLibrary1\obj\Debug\netstandard2.0\UgcClassLibrary.AssemblyInfo.cs
+D:\dev\dotNet\Ugc\ClassLibrary1\bin\Debug\netstandard2.0\UgcClassLibrary.pdb
+D:\dev\dotNet\Ugc\ClassLibrary1\obj\Debug\netstandard2.0\UgcClassLibrary.dll
+D:\dev\dotNet\Ugc\ClassLibrary1\obj\Debug\netstandard2.0\UgcClassLibrary.pdb
